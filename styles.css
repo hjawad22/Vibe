@@ -45,12 +45,6 @@
     width: 280px;    
 }
 
-/* .card-one {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-} */
-
 .card-one-icon {
 position: absolute;
 padding-top: 1%;
@@ -104,6 +98,7 @@ h2 {
 
 .profile-icon{
     padding-right: 10px;
+    cursor: pointer;
 }
 
 body {  
@@ -117,7 +112,8 @@ body {
     border-radius: 5% 5% 50% 50%;
     height: 253px;
     width: 280px;
-    object-fit: cover;
-  }
+    object-fit: cover;  
+}
+  
 
   
