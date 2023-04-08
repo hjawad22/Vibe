@@ -13,9 +13,8 @@ I built a music application using HTML and CSS. The app will provide users with 
 6. Run command open index.html to launch the application in the web browser
 
 ### Preview of App:
-[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 
-![Application Gif](https://media.giphy.com/media/M9FZsJCIPV6qMyVAFt/giphy.gif)
+![Application Gif](https://media.giphy.com/media/fcXu7hHlq6CmscA4ge/giphy.gif)
 
 ### Context:
 
