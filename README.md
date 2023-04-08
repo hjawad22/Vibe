@@ -2,7 +2,7 @@
 
 ### Abstract:
 
-I built a music application using HTML and CSS. The app will provide users with a platform share and listen to  their favorite songs. The application will have a user-friendly interface. The HTML will be used to structure the application, while CSS will be used to design and style the user interface. Overall, this project aims to demonstrate the power of HTML and CSS in building interactive and visually appealing music applications.
+I built a music application using HTML and CSS. The app will provide users with a platform share and listen to  their favorite songs. The application will have a user-friendly and accessible interface. The HTML will be used to structure the application, while CSS will be used to design and style the user interface. Overall, this project aims to demonstrate the power of HTML and CSS in building interactive and visually appealing music applications.
 
 ### Installation Instructions:
 1. Fork the repository
